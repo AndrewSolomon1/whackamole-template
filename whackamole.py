@@ -1,5 +1,6 @@
 import pygame
 
+print("Hello World")
 
 def main():
     try:
